@@ -8,7 +8,7 @@ press ( cntrl+ ` )
 ******and run this command*******
 ****
          npm i
-      OR
+****
       
 npm install -D tailwindcss vite
 
