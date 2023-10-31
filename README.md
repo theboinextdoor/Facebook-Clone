@@ -18,6 +18,8 @@ press ( cntrl+ ` )
 
 
 Other files are already installed, so you don't need to worry about that
+and in case the wesbite is not rendering so just add the html file after
+the local host server
 
 
     
