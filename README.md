@@ -10,7 +10,7 @@ press ( cntrl+ ` )
          npm i
 ****
 
-*Runn this command to insall vite
+*Runn this command to insall vite*
 ****
 npm install -D tailwindcss vite
 ****
