@@ -11,8 +11,9 @@ press ( cntrl+ ` )
 ****
 
 *Runn this command to insall vite*
+
 ****
-npm install -D tailwindcss vite
+      npm install -D tailwindcss vite
 ****
 
 
