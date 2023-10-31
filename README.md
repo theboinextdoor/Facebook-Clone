@@ -17,4 +17,7 @@ press ( cntrl+ ` )
 ****
 
 
+Other files are already installed, so you don't need to worry about that
+
+
     
